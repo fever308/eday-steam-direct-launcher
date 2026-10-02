@@ -1,0 +1,4 @@
+* text=auto
+*.bat text eol=crlf
+*.md text eol=lf
+*.zip binary
